@@ -56,7 +56,7 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-
+/* moved button to center of keyboard mouse pad*/
 #mc-embedded-subscribe {
   position: relative;
   margin-left: 470px;
